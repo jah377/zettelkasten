@@ -36,7 +36,8 @@ tmp/ -> keep/ -> tag-specific directory
 zettelkasten/
 ├── README.md
 ├── images/         # image files linked in notes
-├── tmp/            # default location for new notes
+├── templates/      # markdown note templates
+├── tmp_notes/      # default location for new notes
 ├── keep/           # contains notes kept after review
 └── notes/          # notes organized in [tag] sub-directories
      ├── python/
