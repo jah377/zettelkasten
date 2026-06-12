@@ -1,0 +1,17 @@
+# Ignore git-related files
+.git 
+
+# Do not commit temporary notes
+tmp_notes/*.md
+keep/*.md
+
+# Do not commit work-related notes
+notes/work/*.md
+notes/meetings/*.md
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
